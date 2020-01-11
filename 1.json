@@ -1,0 +1,26 @@
+{
+    "nama": "Andi Faizal",
+    "age" : 25,
+    "address" : "Jl Perintis Kemerdekaan No 10 Temanggung"
+    "hobbies" : [
+        "musik",
+        "olahraga"  
+    ],
+    "is_maried": false,
+    "list_school":[
+        {
+            "name" : "Smk Negeri 1 Temanggung",
+            "year_in" : "2009",
+            "year_out" : "2013"
+            "major" : "null"
+        }
+    ],
+    "skill":[
+        {
+            "skill_name": "java",
+            "level":"beginner"
+        }
+    ],
+    interest_in_coding:true
+
+}
